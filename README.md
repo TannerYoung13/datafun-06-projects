@@ -1,5 +1,7 @@
 # Files, Exceptions, and SQL
 # Tanner Young
+# Github Repo: https://github.com/TannerYoung13/datafun-06-projects
+# Project Topic: 
 """ 
 This module deals with data at rest. Data at rest may be kept in:
 
@@ -12,7 +14,7 @@ We'll look at how to read and write from files and relational databases.
 """
 ## Step 1: Open The Project Folder
 
-Open VS Code and clone your `datafun-04-notebooks` repository to your machine.
+Open VS Code and clone your `datafun-06-projects` repository to your machine.
 
 ## Step 2: Update Default Python
 
